@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](https://github.com/poojamane12/poojamane12/blob/main/big-data-visualization-mesh-diagram-concept-background_1017-19686.avif)
 
 <h1 align="center">Hi 👋, I'm Pooja Mane</h1>
 <h3 align="center">A passionate Data Anlysis/Data Science from India</h3>
